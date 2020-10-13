@@ -5,4 +5,4 @@ myAge --;
 myAge = "None of your business";
 let blank;
 blank = null;
-let notANumber
+let notANumber;
